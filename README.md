@@ -11,6 +11,6 @@ Visual version of 2048 with Monad theme, designed to work with Farcade SDK. Play
 ## 🚀 How to Run Locally
 
 1. Clone this repo:
-   ```bash
+```bash
  git clone https://github.com/username/monad-2048.git
  cd monad-2048
